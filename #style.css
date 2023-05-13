@@ -1,0 +1,31 @@
+section
+{
+background-color:black;
+padding: auto;
+margin: auto;
+width: 1000px;
+}
+.p
+{
+    background-color: brown;
+    margin: auto;
+ font-family:serif auto ;
+ display: block;
+ background-origin: padding-box;
+}
+header
+{
+    background-color: brown;
+    margin: auto;
+ font-family:serif auto ;
+ display: block;
+ background-origin: padding-box;
+ border: solid royalblue;
+}
+img{
+    display: inline-block;
+    padding: auto;
+    margin: center;
+    border-radius: 10px;
+    background-color: beige;
+}
