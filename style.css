@@ -5,11 +5,11 @@ display: center;
 padding: 15px;
 margin: 15px;
 border: solid 10px;
-width: 900px;
+width: 800px;
 }
 p
 {
-    background-color: grey;
+    background-color:grey;
     margin: auto;
  font-family:auto;
  display: auto;
@@ -49,14 +49,15 @@ div#bloock{
 }
 article{
     display: right;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 20px;
     border: 10px;
     padding: 10px;
 }
- {
+ 
+
     
-@media ::content {
     
-}
+
     
-}
+
+    
