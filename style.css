@@ -1,31 +1,40 @@
-section
+div#id
 {
 background-color:black;
+display: center;
 padding: auto;
-margin: auto;
+margin: 20px;
 width: 1000px;
 }
 .p
 {
-    background-color: brown;
+    background-color: grey;
     margin: auto;
  font-family:serif auto ;
- display: block;
+ display: center;
  background-origin: padding-box;
 }
 header
 {
-    background-color: brown;
+    background-color: grey;
     margin: auto;
- font-family:serif auto ;
- display: block;
- background-origin: padding-box;
+ font: family 20px;;
+ display: center;
+ 
  border: solid royalblue;
 }
 img{
     display: inline-block;
-    padding: auto;
+    padding: 20px;
     margin: center;
     border-radius: 10px;
     background-color: beige;
+}
+footer{
+display:center ;
+background-color:greenyellow;
+margin: auto;
+font: family 20px;
+
+border: solid royalblue;
 }
